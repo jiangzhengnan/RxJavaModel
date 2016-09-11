@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jzn.rxjavatest">
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+
+        </activity>
+
+        <activity android:name=".twoexample">
+
+        </activity>
+
+        <activity android:name=".simplestAty">
+
+        </activity>
+
+        <activity android:name=".merge">
+
+        </activity>
+
+        <activity android:name=".timer"></activity>
+
+        <activity android:name=".interval">
+
+        </activity>
+
+        <activity android:name=".schedulePeriodically">
+
+        </activity>
+
+        <activity android:name=".foreach"></activity>
+
+        <activity android:name=".map_flatmap">
+
+        </activity>
+
+        <activity android:name=".concat">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
