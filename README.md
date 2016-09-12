@@ -16,7 +16,7 @@
 以上合集涵盖了大部分RxJava语法与使用场景</br>
 每个实例都可单独运行，打印输出结果</br>
 希望给正在学习RxJava中的你一点启发</br>
-持续更新中，欢迎put requests.</br></br>
+持续更新中，欢迎pull requests.</br></br>
 
 博客地址：<a href="http://blog.csdn.net/lzyzsd/article/details/50120801">RxJava使用场景总结</a></br></br>
 
